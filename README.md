@@ -2,6 +2,27 @@
 
 My personal vs-code extensions
 
+Extension List:
+- Auto Close Tag
+- Auto Rename Tag
+- Code Spell Checker
+- CodeSnap
+- Color Highlight
+- DotEnv
+- ES7 + React/Redux/React-Native
+- ESLint
+- Formatting Toggle
+- Git History
+- GitLens
+- Live Server
+- MUI Snippets
+- Nodejs Snippets
+- Prettier
+- TODO Highlight
+- vscode-icons
+- vscode-styled-components
+- prisma
+
 Install commands:
 
 ```
